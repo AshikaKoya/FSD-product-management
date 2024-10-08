@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(228, 216, 199);
+  
+}
+h1 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(83, 65, 16);
+  font-size: 60px;
+}
